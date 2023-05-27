@@ -27,6 +27,8 @@
    
    ![image](https://github.com/dshreesr/HiringDataAnalysis/assets/33718332/f921a515-df07-4fc0-830f-3f02e71fe411)
    
+   ![image](https://github.com/dshreesr/HiringDataAnalysis/assets/33718332/a9c67da1-dcbc-4679-8aa1-18ea9575986d)
+   
    Please have a look at the attached excel file for detailed analysis.
 
 
